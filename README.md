@@ -46,6 +46,7 @@ Welcome to the **Ultimate Learning Resources Hub** - your one-stop destination f
 | [Web Development](#web-development) | [UI/UX Design](#uiux-design) | [Machine Learning](#machine-learning) |
 | [Mobile Development](#mobile-development) | [Graphic Design](#graphic-design) | [Data Analysis](#data-analysis) |
 | [Systems Programming](#systems-programming) | [Motion Design](#motion-design) | [Big Data](#big-data) |
+|  | [Video Editing](#video-editing) |  |
 
 | 🏢 Business & Finance | 🔬 Sciences | 🎓 Academic & Research |
 |:---:|:---:|:---:|
@@ -80,6 +81,7 @@ Use this detailed navigation to find exactly what you need:
   - [UI/UX Design](#uiux-design)
   - [Graphic Design](#graphic-design)
   - [Motion Design](#motion-design)
+  - [Video Editing](#video-editing)
   - [3D Design](#3d-design)
 
 - [📊 Data Science](#-data-science)
@@ -332,6 +334,43 @@ Unleash your creativity with these design resources.
 - **[School of Motion](https://www.schoolofmotion.com/blog)** - Motion design education
 - **[Motion Design School](https://motiondesign.school/)** - Comprehensive courses
 - **[Lottie Files](https://lottiefiles.com/)** - Animation library
+
+</details>
+
+**[⬆ Back to Top](#-ultimate-learning-resources-hub)**
+
+---
+
+#### Video Editing
+
+<details>
+<summary><b>Click to expand Video Editing resources</b></summary>
+
+**Learning Platforms**
+- **[Premiere Pro Tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html)** - Official Adobe Premiere Pro guides
+- **[DaVinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training)** - Free official training
+- **[Final Cut Pro Resources](https://www.apple.com/final-cut-pro/resources/)** - Apple's video editing tutorials
+- **[Video Editing Course](https://www.linkedin.com/learning/topics/video-editing)** - LinkedIn Learning courses
+
+**Free Software & Tools**
+- **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Professional free video editor
+- **[Shotcut](https://shotcut.org/)** - Open-source video editor
+- **[OpenShot](https://www.openshot.org/)** - Free, easy-to-use editor
+- **[Kdenlive](https://kdenlive.org/)** - Open-source video editor
+
+**YouTube Channels**
+- **[Peter McKinnon](https://www.youtube.com/c/PeterMcKinnon)** - Cinematography and editing
+- **[Premiere Gal](https://www.youtube.com/c/PremiereGal)** - Premiere Pro tutorials
+- **[Casey Faris](https://www.youtube.com/c/CaseyFaris)** - DaVinci Resolve tutorials
+- **[Justin Odisho](https://www.youtube.com/user/justinodisho)** - Editing techniques
+
+**Stock Footage & Assets**
+- **[50GB Free Materials](https://drive.google.com/drive/u/0/folders/1AnPU1h5pGDb5MZGtQPxojNJwb0hh-sR0?fbclid=IwY2xjawOIQWNleHRuA2FlbQIxMABicmlkETFGQkhVdFBPNWxoc0cyTU9Ec3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MghjYWxsc2l0ZQEyAAEesWpMBpsKCjTM5zo-9rLe-7mK8Iqoa0arX4-M1Ha45A2llHYw5cfLPkVoJhI_aem_9Tsd2jU3Vh81Y6uHHLNNOA)** - 50 GB Premium Video Editing Materials
+- **[Pexels Videos](https://www.pexels.com/videos/)** - Free stock footage
+- **[Mixkit](https://mixkit.co/)** - Free video clips and templates
+- **[Videvo](https://www.videvo.net/)** - Free stock video footage
+- **[Motion Array](https://motionarray.com/)** - Video templates and assets
+- **[30GB Capcut Drive](https://drive.google.com/drive/folders/17XjKkjNAWujw_8IqpHe_3kgYPrrGcU7u?fbclid=IwY2xjawOIRqdleHRuA2FlbQIxMABicmlkETFGQkhVdFBPNWxoc0cyTU9Ec3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MghjYWxsc2l0ZQEyAAEet2v-emVDsjyUkjgy5-lRBqiKu61RRwTs6_EzYra1hhiYPL_-fwxP3rFr8Co_aem_n4tu9WsZjXvhfOoafkWQFQ)** - 30GB Free CapCut (sound effects, templates etc...)
 
 </details>
 
